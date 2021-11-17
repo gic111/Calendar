@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Calendar {
     // First day of 1800 year is equal 3 ( Wednesday )
     private static final int YEAR = 1800;
-    private static final int FIRST_DAY_IN_2021  = 3;
+    private static final int FIRST_DAY_IN_1800  = 3;
 
     public static void test() {
         programWork();
